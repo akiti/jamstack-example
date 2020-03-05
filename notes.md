@@ -1,0 +1,1 @@
+git status -sb -- show all the changes that has happened to the branch
